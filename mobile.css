@@ -1,0 +1,62 @@
+body{
+    padding: 0;
+    margin:0;
+}
+.header{
+    background-color: aqua;
+    
+} 
+
+.header1 img{
+    width: 100%;
+    margin: 0 0 50%;
+
+    
+}
+.header a{
+    float: right;
+    padding: 5px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+.header1{
+    text-align: center;
+    color: white;
+
+}
+.img1{
+    height: 10dvh;
+    width: 10dvh;
+    position: absolute;
+    top: 40vh;
+}
+.temoin img{
+    clip-path: circle();
+}
+.temoin{
+    text-align: center;
+
+}
+.footer1{
+    text-align: center;
+    background-color: rgb(161, 224, 204);
+    
+
+
+}
+.footer2 a{
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    
+}
+
+
+.logo{
+    text-align: center;
+    letter-spacing: 30px;
+}
+.photo{
+    position: absolute;
+    
+}
